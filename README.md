@@ -60,21 +60,20 @@
 - Real-time lane and obstacle detection system using YOLOv8 and OpenCV
 - Processes image frames with NumPy to identify and localize obstacles
 - Streamlit interface to visualize detection results live
-- 🔗 [View repository](https://github.com/bodavulashyamlatha/REPO-NAME) <!-- replace REPO-NAME with your ADAS repository name -->
+- 🔗 [View repository](https://github.com/bodavulashyamlatha/adas-lane-obstacle-detection)
 
 ### 💸 Expenses Management System with Data Visualization
-`JSON` `GUI` `Data Visualization`
+`Python` `JSON` `GUI` `Data Visualization`
 - Application to record, categorize, and track daily expenses
 - JSON-based data storage for efficient record management and updates
 - Simple GUI that displays expense data and visualizations of spending patterns
-- 🔗 [View repository](https://github.com/bodavulashyamlatha/REPO-NAME) <!-- replace REPO-NAME with your expenses project repository name -->
+- 🔗 [View repository](https://github.com/bodavulashyamlatha/expense-tracker-with-data-visualization)
 
 ### 🚪 IoT-Based Visitor Counting System
 `ESP32` `Embedded C`
 - ESP32-based system that tracks room entry and exit in real time
 - Counting logic that maintains a live visitor count
 - Designed for use in rooms, laboratories, and public spaces
-- 🔗 [View repository](https://github.com/bodavulashyamlatha/REPO-NAME) <!-- replace REPO-NAME with your IoT repository name -->
 
 ---
 
@@ -110,4 +109,4 @@
 
 📧 [bodavulashyamlatha@gmail.com](mailto:bodavulashyamlatha@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/syam-latha-bodavula-5073b5403/)
 
-<p align="center">⭐ Thanks for visiting my profile!</p>
+<p align="center">⭐ Thanks for visiting my profile!</p> 
